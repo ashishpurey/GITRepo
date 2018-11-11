@@ -51,7 +51,8 @@
 		<repository>
 			<id>test123</id>
 			<name>test123</name>
-			<url>http://13.232.112.78:8081/artifactory/test123</url>
+			<!--old one url>http://13.232.112.78:8081/artifactory/test123</ -->
+			<url>http://13.232.249.21:8081/artifactory/test123</url>
 		</repository>
 			</distributionManagement>
 
