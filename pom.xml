@@ -52,7 +52,7 @@
 			<id>TestGitRepo</id>
 			<name>TestGitRepo</name>
 			<!--old one url>http://13.232.112.78:8081/artifactory/test123</ -->
-			<url>http://13.233.165.191:8081/artifactory/TestGitRepo</url>
+			<url>http://13.233.165.191:8081/artifactory/test123</url>
 		</repository>
 	 </distributionManagement>
 
