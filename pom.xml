@@ -49,10 +49,10 @@
     </build>
        	<distributionManagement>
 		<repository>
-			<id>test123</id>
-			<name>test123</name>
+			<id>TestGitRepo</id>
+			<name>TestGitRepo</name>
 			<!--old one url>http://13.232.112.78:8081/artifactory/test123</ -->
-			<url>http://13.233.165.191:8081/artifactory/test123</url>
+			<url>http://13.233.165.191:8081/artifactory/TestGitRepo</url>
 		</repository>
 	 </distributionManagement>
 
