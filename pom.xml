@@ -55,10 +55,10 @@
     </build>
        	<distributionManagement>
 		<repository>
-			<id>test123</id>
-			<name>test123</name>
+			<id>repo1</id>
+			<name>example</name>
 			<!--old one url>http://13.232.112.78:8081/artifactory/test123</ -->
-			<url>http://13.233.165.191:8081/artifactory/test123</url>
+			<url>http://52.66.244.14:8081/artifactory/repo1</url>
 		</repository>
 	 </distributionManagement>
 
