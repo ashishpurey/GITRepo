@@ -12,11 +12,11 @@
     </properties>
 
     <build>
-	<sourceDirectory>/var/lib/jenkins/workspace/GITRepoTest</sourceDirectory>
-    	<scriptSourceDirectory>/var/lib/jenkins/workspace/GITRepoTest/src/main/scripts</scriptSourceDirectory>
-  	<testSourceDirectory>/var/lib/jenkins/workspace/GITRepoTest/src/test/java</testSourceDirectory>
-   	<outputDirectory>/var/lib/jenkins/workspace/GITRepoTest/target/classes</outputDirectory>
-    	<testOutputDirectory>/var/lib/jenkins/workspace/GITRepoTest/target/test-classes</testOutputDirectory>
+	<sourceDirectory>/var/lib/jenkins/workspace/maven-example</sourceDirectory>
+    	<scriptSourceDirectory>/var/lib/jenkins/workspace/maven-example/src/main/scripts</scriptSourceDirectory>
+  	<testSourceDirectory>/var/lib/jenkins/workspace/maven-example/src/test/java</testSourceDirectory>
+   	<outputDirectory>/var/lib/jenkins/workspace/maven-example/target/classes</outputDirectory>
+    	<testOutputDirectory>/var/lib/jenkins/workspace/maven-example/target/test-classes</testOutputDirectory>
 
         <plugins>
             <!-- Maven Assembly Plugin -->
