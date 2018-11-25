@@ -12,13 +12,7 @@
     </properties>
 
     <build>
-	<sourceDirectory>/var/lib/jenkins/workspace/maven-1</sourceDirectory>
-    	<scriptSourceDirectory>/var/lib/jenkins/workspace/maven-1/src/main/scripts</scriptSourceDirectory>
-  	<testSourceDirectory>/var/lib/jenkins/workspace/maven-1/src/test/java</testSourceDirectory>
-   	<outputDirectory>/var/lib/jenkins/workspace/maven-1/target/classes</outputDirectory>
-    	<testOutputDirectory>/var/lib/jenkins/workspace/maven-1/target/test-classes</testOutputDirectory>
-
-        <plugins>
+	<plugins>
             <!-- Maven Assembly Plugin -->
             <plugin>
                 <groupId>org.apache.maven.plugins</groupId>
