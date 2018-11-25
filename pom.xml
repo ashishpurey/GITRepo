@@ -12,11 +12,11 @@
     </properties>
 
     <build>
-	<sourceDirectory>/var/lib/jenkins/workspace/maven-example</sourceDirectory>
-    	<scriptSourceDirectory>/var/lib/jenkins/workspace/maven-example/src/main/scripts</scriptSourceDirectory>
-  	<testSourceDirectory>/var/lib/jenkins/workspace/maven-example/src/test/java</testSourceDirectory>
-   	<outputDirectory>/var/lib/jenkins/workspace/maven-example/target/classes</outputDirectory>
-    	<testOutputDirectory>/var/lib/jenkins/workspace/maven-example/target/test-classes</testOutputDirectory>
+	<sourceDirectory>/var/lib/jenkins/workspace/maven-1</sourceDirectory>
+    	<scriptSourceDirectory>/var/lib/jenkins/workspace/maven-1/src/main/scripts</scriptSourceDirectory>
+  	<testSourceDirectory>/var/lib/jenkins/workspace/maven-1/src/test/java</testSourceDirectory>
+   	<outputDirectory>/var/lib/jenkins/workspace/maven-1/target/classes</outputDirectory>
+    	<testOutputDirectory>/var/lib/jenkins/workspace/maven-1/target/test-classes</testOutputDirectory>
 
         <plugins>
             <!-- Maven Assembly Plugin -->
@@ -58,7 +58,7 @@
 			<id>repo1</id>
 			<name>example</name>
 			<!--old one url>http://13.232.112.78:8081/artifactory/test123</ -->
-			<url>http://52.66.244.14:8081/artifactory/repo1</url>
+			<url>http://13.233.146.202:8081/artifactory/repo1</url>
 		</repository>
 	 </distributionManagement>
 
