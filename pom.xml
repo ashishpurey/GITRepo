@@ -57,7 +57,7 @@
 			<id>repo1</id>
 			<name>example</name>
 			<!--old one url>http://13.232.112.78:8081/artifactory/test123</ -->
-			<url>http://13.127.174.182:8081/artifactory/test123</url>
+			<url>http://13.127.174.182:8081/artifactory/generic-local</url>
 		</repository>
 	 </distributionManagement>
 
